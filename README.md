@@ -149,7 +149,7 @@ I'm currently a Staff Software Engineer at <a href="https://kareo.com">Kareo</a>
 <a href="https://kubernetes.io/">
   <img height="48px" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
 </a>
-<a href="https://apache.maven.org/">
+<a href="https://maven.apache.org/">
   <img height="48px" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"/>
 </a>
 <a href="https://code.visualstudio.com/">
