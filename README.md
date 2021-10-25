@@ -70,11 +70,11 @@ I'm currently a Staff Software Engineer at <a href="https://kareo.com">Kareo</a>
 <a href="https://www.jenkins.io/">
   <img height="48px" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
 </a>
-<a href="https://www.jetbrains.com/teamcity/">
-  <img height="48px" width="48px" src="assets/jetbrains/teamcity/VerticalLogo_Color.svg"/>
-</a>
 <a href="https://www.pmease.com/quickbuild/">
   <img height="48px" width="48px" src="assets/pmease/quickbuild/VerticalLogo_Color.svg"/>
+</a>
+<a href="https://www.jetbrains.com/teamcity/">
+  <img height="48px" width="48px" src="assets/jetbrains/teamcity/VerticalLogo_Color.svg"/>
 </a>
 <a href="https://travis-ci.org/">
   <img height="48px" width="48px" src="assets/travis-ci/VerticalLogo_Color.png"/>
