@@ -8,7 +8,7 @@
 I'm a veteran software engineer with a passion for efficiency and productivity throughout the development workflow, from commit through the CI/CD pipeline to successful deployment. When I'm not developing automated pipelines or experimenting with new technologies, I can be found gaming or relaxing with my family.
 <br/>
 <br/>
-I'm currently a Staff Software Engineer at <a href="https://kareo.com">Kareo</a>, working with DevOps and Engineering to bring Kareo's platform to the cloud. Previously, I worked at Intuit as a Staff Software Engineer and Sony Online Entertainment as a Game Designer, and later a Software Engineer.
+I'm currently a Principal DevOps Engineer at <a href="https://tebra.com">Tebra</a> working to bring Tebra's platform to the cloud. Previously, I worked at Intuit as a Staff Software Engineer and Sony Online Entertainment as a Game Designer, and later a Software Engineer.
 
 ### Languages & Proficiencies
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
