@@ -1,64 +1,20 @@
-<a href="https://git.io/streak-stats">
-  <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=jrmash"/>
-</a>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=jrmash"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img align="center" src="https://github-profile-trophy.vercel.app?username=jrmash&theme=flat&title=Commit,Issues,PullRequest,Repositories&column=4&margin-w=18&margin-h=5"/>
+  </a>
+</p>
 <br/>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="right" src="https://github-profile-trophy.vercel.app?username=jrmash&theme=flat&title=Commit,Issues,PullRequest,Repositories&column=4&margin-w=18&margin-h=5"/>
-</a>
 I'm a veteran software engineer with a passion for efficiency and productivity throughout the development workflow, from commit through the CI/CD pipeline to successful deployment. When I'm not developing automated pipelines or experimenting with new technologies, I can be found gaming or relaxing with my family.
 <br/>
 <br/>
-I'm currently a Principal DevOps Engineer at <a href="https://tebra.com">Tebra</a> working to bring Tebra's platform to the cloud. Previously, I worked at Intuit as a Staff Software Engineer and Sony Online Entertainment as a Game Designer, and later a Software Engineer.
+I'm currently a Principal DevOps Engineer at <a href="https://tebra.com">Tebra</a> working to bring Tebra's platform to the cloud. Previously, I worked at Intuit as a Staff Software Engineer and Sony Online Entertainment as a Game Designer/Software Engineer.
 
 <br/><br/>
-<p align="center">
-  <b>Languages & Proficiencies</b><br>
-</p>
-<p align="center">
-    <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
-    <img height="48px" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-    </a>
-    <a href="https://docs.microsoft.com/en-us/powershell/">
-    <img height="48px" width="48px" src="assets/microsoft/powershell/VerticalLogo_Color_5.0.png"/>
-    </a>
-    <a href="#" onclick="return false;">
-    <img height="48px" width="16px" src="assets/misc/vertical-bar.png"/>
-    </a>
-    <a href="https://groovy-lang.org/">
-    <img height="48px" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg"/>
-    </a>
-    <a href="https://perl.org/">
-    <img height="48px" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg"/>
-    </a>
-    <a href="https://python.org/">
-    <img height="48px" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-    </a>
-    <a href="https://www.ruby-lang.org/">
-    <img height="48px" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg"/>
-    </a>
-    <a href="#" onclick="return false;">
-    <img height="48px" width="16px" src="assets/misc/vertical-bar.png"/>
-    </a>
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img height="48px" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-    </a>
-    <a href="https://en.wikipedia.org/wiki/C++">
-    <img height="48px" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-    </a>
-    <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
-    <img height="48px" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-    </a>
-    <a href="https://golang.org/">
-    <img height="48px" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"/>
-    </a>
-    <a href="https://java.com/">
-    <img height="48px" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-    </a>
-    <a href="https://kotlinlang.org/">
-    <img height="48px" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
-    </a>
-</p>
-<br/>
 <p align="center">
   <b>CI/CD & VCS</b><br>
 </p>
@@ -146,6 +102,54 @@ I'm currently a Principal DevOps Engineer at <a href="https://tebra.com">Tebra</
     </a>
     <a href="https://www.microsoft.com/en-us/windows/">
     <img height="48px" width="48px" src="assets/microsoft/windows/VerticalLogo_Color.svg"/>
+    </a>
+</p>
+<br/>
+<p align="center">
+  <b>Languages & Proficiencies</b><br>
+</p>
+<p align="center">
+    <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
+    <img height="48px" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+    </a>
+    <a href="https://docs.microsoft.com/en-us/powershell/">
+    <img height="48px" width="48px" src="assets/microsoft/powershell/VerticalLogo_Color_5.0.png"/>
+    </a>
+    <a href="#" onclick="return false;">
+    <img height="48px" width="16px" src="assets/misc/vertical-bar.png"/>
+    </a>
+    <a href="https://groovy-lang.org/">
+    <img height="48px" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg"/>
+    </a>
+    <a href="https://perl.org/">
+    <img height="48px" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg"/>
+    </a>
+    <a href="https://python.org/">
+    <img height="48px" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+    </a>
+    <a href="https://www.ruby-lang.org/">
+    <img height="48px" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg"/>
+    </a>
+    <a href="#" onclick="return false;">
+    <img height="48px" width="16px" src="assets/misc/vertical-bar.png"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img height="48px" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/C++">
+    <img height="48px" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
+    <img height="48px" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+    </a>
+    <a href="https://golang.org/">
+    <img height="48px" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"/>
+    </a>
+    <a href="https://java.com/">
+    <img height="48px" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+    </a>
+    <a href="https://kotlinlang.org/">
+    <img height="48px" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
     </a>
 </p>
 <br/>
