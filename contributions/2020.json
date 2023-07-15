@@ -1,36 +1,27 @@
 {
   "username": "jrmash",
-  "year": "2023",
+  "year": "2020",
   "min": 1,
-  "max": 354,
-  "median": 4,
-  "p80": 13,
-  "p90": 26,
-  "p99": 248,
+  "max": 933,
+  "median": 16,
+  "p80": 93,
+  "p90": 129,
+  "p99": 445.5,
   "contributions": [
     {
       "week": 0,
       "days": [
         {
-          "count": 2
-        },
-        {
           "count": 0
         },
         {
-          "count": 2
+          "count": 34
         },
         {
-          "count": 25
+          "count": 4
         },
         {
-          "count": 2
-        },
-        {
-          "count": 82
-        },
-        {
-          "count": 1
+          "count": 0
         }
       ]
     },
@@ -38,25 +29,25 @@
       "week": 1,
       "days": [
         {
-          "count": 3
+          "count": 0
         },
         {
-          "count": 7
+          "count": 103
         },
         {
-          "count": 2
+          "count": 0
         },
         {
-          "count": 1
+          "count": 223
         },
         {
-          "count": 2
+          "count": 113
         },
         {
-          "count": 3
+          "count": 223
         },
         {
-          "count": 1
+          "count": 0
         }
       ]
     },
@@ -64,25 +55,25 @@
       "week": 2,
       "days": [
         {
+          "count": 0
+        },
+        {
           "count": 2
         },
         {
           "count": 0
         },
         {
-          "count": 4
-        },
-        {
-          "count": 2
-        },
-        {
-          "count": 24
+          "count": 0
         },
         {
           "count": 1
         },
         {
-          "count": 1
+          "count": 5
+        },
+        {
+          "count": 0
         }
       ]
     },
@@ -93,22 +84,22 @@
           "count": 0
         },
         {
-          "count": 2
+          "count": 0
         },
         {
-          "count": 1
+          "count": 0
+        },
+        {
+          "count": 2
         },
         {
           "count": 15
         },
         {
-          "count": 11
+          "count": 0
         },
         {
-          "count": 5
-        },
-        {
-          "count": 1
+          "count": 0
         }
       ]
     },
@@ -119,22 +110,22 @@
           "count": 0
         },
         {
-          "count": 40
+          "count": 136
         },
         {
-          "count": 3
+          "count": 933
         },
         {
-          "count": 6
+          "count": 99
         },
         {
-          "count": 4
+          "count": 32
         },
         {
-          "count": 6
+          "count": 0
         },
         {
-          "count": 1
+          "count": 0
         }
       ]
     },
@@ -142,7 +133,224 @@
       "week": 5,
       "days": [
         {
-          "count": 5
+          "count": 0
+        },
+        {
+          "count": 75
+        },
+        {
+          "count": 8
+        },
+        {
+          "count": 9
+        },
+        {
+          "count": 255
+        },
+        {
+          "count": 27
+        },
+        {
+          "count": 0
+        }
+      ]
+    },
+    {
+      "week": 6,
+      "days": [
+        {
+          "count": 0
+        },
+        {
+          "count": 13
+        },
+        {
+          "count": 1
+        },
+        {
+          "count": 7
+        },
+        {
+          "count": 7
+        },
+        {
+          "count": 0
+        },
+        {
+          "count": 0
+        }
+      ]
+    },
+    {
+      "week": 7,
+      "days": [
+        {
+          "count": 0
+        },
+        {
+          "count": 0
+        },
+        {
+          "count": 0
+        },
+        {
+          "count": 2
+        },
+        {
+          "count": 10
+        },
+        {
+          "count": 2
+        },
+        {
+          "count": 0
+        }
+      ]
+    },
+    {
+      "week": 8,
+      "days": [
+        {
+          "count": 0
+        },
+        {
+          "count": 1
+        },
+        {
+          "count": 11
+        },
+        {
+          "count": 0
+        },
+        {
+          "count": 0
+        },
+        {
+          "count": 474
+        },
+        {
+          "count": 1
+        }
+      ]
+    },
+    {
+      "week": 9,
+      "days": [
+        {
+          "count": 0
+        },
+        {
+          "count": 9
+        },
+        {
+          "count": 0
+        },
+        {
+          "count": 0
+        },
+        {
+          "count": 48
+        },
+        {
+          "count": 0
+        },
+        {
+          "count": 0
+        }
+      ]
+    },
+    {
+      "week": 10,
+      "days": [
+        {
+          "count": 0
+        },
+        {
+          "count": 4
+        },
+        {
+          "count": 22
+        },
+        {
+          "count": 118
+        },
+        {
+          "count": 4
+        },
+        {
+          "count": 29
+        },
+        {
+          "count": 0
+        }
+      ]
+    },
+    {
+      "week": 11,
+      "days": [
+        {
+          "count": 0
+        },
+        {
+          "count": 41
+        },
+        {
+          "count": 98
+        },
+        {
+          "count": 0
+        },
+        {
+          "count": 3
+        },
+        {
+          "count": 2
+        },
+        {
+          "count": 0
+        }
+      ]
+    },
+    {
+      "week": 12,
+      "days": [
+        {
+          "count": 0
+        },
+        {
+          "count": 2
+        },
+        {
+          "count": 4
+        },
+        {
+          "count": 8
+        },
+        {
+          "count": 1
+        },
+        {
+          "count": 8
+        },
+        {
+          "count": 0
+        }
+      ]
+    },
+    {
+      "week": 13,
+      "days": [
+        {
+          "count": 0
+        },
+        {
+          "count": 1
+        },
+        {
+          "count": 0
+        },
+        {
+          "count": 0
         },
         {
           "count": 1
@@ -151,224 +359,7 @@
           "count": 18
         },
         {
-          "count": 13
-        },
-        {
-          "count": 8
-        },
-        {
-          "count": 2
-        },
-        {
-          "count": 4
-        }
-      ]
-    },
-    {
-      "week": 6,
-      "days": [
-        {
-          "count": 3
-        },
-        {
-          "count": 1
-        },
-        {
-          "count": 2
-        },
-        {
-          "count": 7
-        },
-        {
-          "count": 12
-        },
-        {
-          "count": 1
-        },
-        {
-          "count": 1
-        }
-      ]
-    },
-    {
-      "week": 7,
-      "days": [
-        {
-          "count": 2
-        },
-        {
-          "count": 2
-        },
-        {
-          "count": 3
-        },
-        {
-          "count": 4
-        },
-        {
-          "count": 14
-        },
-        {
-          "count": 1
-        },
-        {
-          "count": 2
-        }
-      ]
-    },
-    {
-      "week": 8,
-      "days": [
-        {
-          "count": 4
-        },
-        {
-          "count": 14
-        },
-        {
-          "count": 7
-        },
-        {
-          "count": 28
-        },
-        {
-          "count": 220
-        },
-        {
-          "count": 4
-        },
-        {
           "count": 0
-        }
-      ]
-    },
-    {
-      "week": 9,
-      "days": [
-        {
-          "count": 2
-        },
-        {
-          "count": 2
-        },
-        {
-          "count": 10
-        },
-        {
-          "count": 14
-        },
-        {
-          "count": 2
-        },
-        {
-          "count": 10
-        },
-        {
-          "count": 2
-        }
-      ]
-    },
-    {
-      "week": 10,
-      "days": [
-        {
-          "count": 4
-        },
-        {
-          "count": 10
-        },
-        {
-          "count": 4
-        },
-        {
-          "count": 69
-        },
-        {
-          "count": 5
-        },
-        {
-          "count": 257
-        },
-        {
-          "count": 3
-        }
-      ]
-    },
-    {
-      "week": 11,
-      "days": [
-        {
-          "count": 2
-        },
-        {
-          "count": 2
-        },
-        {
-          "count": 19
-        },
-        {
-          "count": 354
-        },
-        {
-          "count": 19
-        },
-        {
-          "count": 3
-        },
-        {
-          "count": 3
-        }
-      ]
-    },
-    {
-      "week": 12,
-      "days": [
-        {
-          "count": 1
-        },
-        {
-          "count": 5
-        },
-        {
-          "count": 4
-        },
-        {
-          "count": 2
-        },
-        {
-          "count": 2
-        },
-        {
-          "count": 2
-        },
-        {
-          "count": 3
-        }
-      ]
-    },
-    {
-      "week": 13,
-      "days": [
-        {
-          "count": 1
-        },
-        {
-          "count": 2
-        },
-        {
-          "count": 48
-        },
-        {
-          "count": 31
-        },
-        {
-          "count": 43
-        },
-        {
-          "count": 6
-        },
-        {
-          "count": 1
         }
       ]
     },
@@ -376,25 +367,25 @@
       "week": 14,
       "days": [
         {
-          "count": 2
+          "count": 0
+        },
+        {
+          "count": 282
         },
         {
           "count": 5
         },
         {
-          "count": 58
+          "count": 10
         },
         {
-          "count": 7
-        },
-        {
-          "count": 20
-        },
-        {
-          "count": 1
+          "count": 0
         },
         {
           "count": 2
+        },
+        {
+          "count": 0
         }
       ]
     },
@@ -402,25 +393,25 @@
       "week": 15,
       "days": [
         {
-          "count": 4
-        },
-        {
-          "count": 68
-        },
-        {
-          "count": 5
+          "count": 0
         },
         {
           "count": 7
+        },
+        {
+          "count": 25
+        },
+        {
+          "count": 93
         },
         {
           "count": 14
         },
         {
-          "count": 7
+          "count": 35
         },
         {
-          "count": 1
+          "count": 0
         }
       ]
     },
@@ -431,22 +422,22 @@
           "count": 0
         },
         {
-          "count": 31
+          "count": 145
         },
         {
-          "count": 3
+          "count": 135
         },
         {
-          "count": 6
+          "count": 56
+        },
+        {
+          "count": 167
+        },
+        {
+          "count": 372
         },
         {
           "count": 0
-        },
-        {
-          "count": 146
-        },
-        {
-          "count": 4
         }
       ]
     },
@@ -457,10 +448,273 @@
           "count": 0
         },
         {
+          "count": 63
+        },
+        {
+          "count": 417
+        },
+        {
+          "count": 7
+        },
+        {
           "count": 3
         },
         {
-          "count": 18
+          "count": 1
+        },
+        {
+          "count": 0
+        }
+      ]
+    },
+    {
+      "week": 18,
+      "days": [
+        {
+          "count": 0
+        },
+        {
+          "count": 0
+        },
+        {
+          "count": 13
+        },
+        {
+          "count": 0
+        },
+        {
+          "count": 2
+        },
+        {
+          "count": 8
+        },
+        {
+          "count": 0
+        }
+      ]
+    },
+    {
+      "week": 19,
+      "days": [
+        {
+          "count": 0
+        },
+        {
+          "count": 4
+        },
+        {
+          "count": 2
+        },
+        {
+          "count": 0
+        },
+        {
+          "count": 0
+        },
+        {
+          "count": 0
+        },
+        {
+          "count": 0
+        }
+      ]
+    },
+    {
+      "week": 20,
+      "days": [
+        {
+          "count": 0
+        },
+        {
+          "count": 29
+        },
+        {
+          "count": 6
+        },
+        {
+          "count": 9
+        },
+        {
+          "count": 30
+        },
+        {
+          "count": 11
+        },
+        {
+          "count": 0
+        }
+      ]
+    },
+    {
+      "week": 21,
+      "days": [
+        {
+          "count": 0
+        },
+        {
+          "count": 0
+        },
+        {
+          "count": 20
+        },
+        {
+          "count": 1
+        },
+        {
+          "count": 52
+        },
+        {
+          "count": 122
+        },
+        {
+          "count": 0
+        }
+      ]
+    },
+    {
+      "week": 22,
+      "days": [
+        {
+          "count": 0
+        },
+        {
+          "count": 73
+        },
+        {
+          "count": 93
+        },
+        {
+          "count": 84
+        },
+        {
+          "count": 26
+        },
+        {
+          "count": 37
+        },
+        {
+          "count": 0
+        }
+      ]
+    },
+    {
+      "week": 23,
+      "days": [
+        {
+          "count": 0
+        },
+        {
+          "count": 20
+        },
+        {
+          "count": 2
+        },
+        {
+          "count": 0
+        },
+        {
+          "count": 152
+        },
+        {
+          "count": 123
+        },
+        {
+          "count": 0
+        }
+      ]
+    },
+    {
+      "week": 24,
+      "days": [
+        {
+          "count": 16
+        },
+        {
+          "count": 134
+        },
+        {
+          "count": 8
+        },
+        {
+          "count": 50
+        },
+        {
+          "count": 17
+        },
+        {
+          "count": 316
+        },
+        {
+          "count": 0
+        }
+      ]
+    },
+    {
+      "week": 25,
+      "days": [
+        {
+          "count": 0
+        },
+        {
+          "count": 4
+        },
+        {
+          "count": 34
+        },
+        {
+          "count": 1
+        },
+        {
+          "count": 17
+        },
+        {
+          "count": 8
+        },
+        {
+          "count": 0
+        }
+      ]
+    },
+    {
+      "week": 26,
+      "days": [
+        {
+          "count": 0
+        },
+        {
+          "count": 2
+        },
+        {
+          "count": 2
+        },
+        {
+          "count": 6
+        },
+        {
+          "count": 0
+        },
+        {
+          "count": 0
+        },
+        {
+          "count": 0
+        }
+      ]
+    },
+    {
+      "week": 27,
+      "days": [
+        {
+          "count": 0
+        },
+        {
+          "count": 2
+        },
+        {
+          "count": 5
+        },
+        {
+          "count": 10
         },
         {
           "count": 3
@@ -469,270 +723,7 @@
           "count": 0
         },
         {
-          "count": 92
-        },
-        {
-          "count": 3
-        }
-      ]
-    },
-    {
-      "week": 18,
-      "days": [
-        {
-          "count": 1
-        },
-        {
-          "count": 42
-        },
-        {
-          "count": 8
-        },
-        {
-          "count": 239
-        },
-        {
-          "count": 1
-        },
-        {
-          "count": 32
-        },
-        {
-          "count": 2
-        }
-      ]
-    },
-    {
-      "week": 19,
-      "days": [
-        {
-          "count": 1
-        },
-        {
-          "count": 1
-        },
-        {
-          "count": 15
-        },
-        {
-          "count": 3
-        },
-        {
-          "count": 6
-        },
-        {
-          "count": 2
-        },
-        {
-          "count": 1
-        }
-      ]
-    },
-    {
-      "week": 20,
-      "days": [
-        {
-          "count": 1
-        },
-        {
-          "count": 1
-        },
-        {
-          "count": 27
-        },
-        {
-          "count": 17
-        },
-        {
-          "count": 1
-        },
-        {
-          "count": 8
-        },
-        {
-          "count": 2
-        }
-      ]
-    },
-    {
-      "week": 21,
-      "days": [
-        {
-          "count": 2
-        },
-        {
-          "count": 1
-        },
-        {
-          "count": 4
-        },
-        {
-          "count": 7
-        },
-        {
-          "count": 2
-        },
-        {
-          "count": 4
-        },
-        {
-          "count": 1
-        }
-      ]
-    },
-    {
-      "week": 22,
-      "days": [
-        {
-          "count": 1
-        },
-        {
-          "count": 2
-        },
-        {
-          "count": 2
-        },
-        {
-          "count": 1
-        },
-        {
-          "count": 7
-        },
-        {
-          "count": 2
-        },
-        {
-          "count": 2
-        }
-      ]
-    },
-    {
-      "week": 23,
-      "days": [
-        {
-          "count": 1
-        },
-        {
-          "count": 2
-        },
-        {
-          "count": 4
-        },
-        {
-          "count": 5
-        },
-        {
-          "count": 12
-        },
-        {
-          "count": 2
-        },
-        {
-          "count": 3
-        }
-      ]
-    },
-    {
-      "week": 24,
-      "days": [
-        {
-          "count": 1
-        },
-        {
-          "count": 2
-        },
-        {
-          "count": 8
-        },
-        {
-          "count": 6
-        },
-        {
-          "count": 13
-        },
-        {
-          "count": 7
-        },
-        {
-          "count": 1
-        }
-      ]
-    },
-    {
-      "week": 25,
-      "days": [
-        {
-          "count": 2
-        },
-        {
-          "count": 2
-        },
-        {
-          "count": 5
-        },
-        {
-          "count": 23
-        },
-        {
-          "count": 5
-        },
-        {
-          "count": 18
-        },
-        {
-          "count": 2
-        }
-      ]
-    },
-    {
-      "week": 26,
-      "days": [
-        {
-          "count": 1
-        },
-        {
-          "count": 1
-        },
-        {
-          "count": 2
-        },
-        {
-          "count": 8
-        },
-        {
-          "count": 9
-        },
-        {
-          "count": 13
-        },
-        {
-          "count": 4
-        }
-      ]
-    },
-    {
-      "week": 27,
-      "days": [
-        {
-          "count": 3
-        },
-        {
-          "count": 7
-        },
-        {
-          "count": 18
-        },
-        {
-          "count": 16
-        },
-        {
-          "count": 13
-        },
-        {
-          "count": 12
-        },
-        {
-          "count": 2
+          "count": 0
         }
       ]
     },
@@ -743,7 +734,10 @@
           "count": 0
         },
         {
-          "count": 0
+          "count": 93
+        },
+        {
+          "count": 2
         },
         {
           "count": 0
@@ -752,10 +746,7 @@
           "count": 0
         },
         {
-          "count": 0
-        },
-        {
-          "count": 0
+          "count": 2
         },
         {
           "count": 0
@@ -766,22 +757,22 @@
       "week": 29,
       "days": [
         {
-          "count": 0
+          "count": 1
         },
         {
           "count": 0
         },
         {
-          "count": 0
+          "count": 2
         },
         {
-          "count": 0
+          "count": 20
         },
         {
-          "count": 0
+          "count": 1
         },
         {
-          "count": 0
+          "count": 1
         },
         {
           "count": 0
@@ -795,19 +786,19 @@
           "count": 0
         },
         {
-          "count": 0
+          "count": 23
         },
         {
-          "count": 0
+          "count": 19
         },
         {
-          "count": 0
+          "count": 50
         },
         {
-          "count": 0
+          "count": 36
         },
         {
-          "count": 0
+          "count": 2
         },
         {
           "count": 0
@@ -821,19 +812,19 @@
           "count": 0
         },
         {
-          "count": 0
+          "count": 78
         },
         {
-          "count": 0
+          "count": 42
         },
         {
-          "count": 0
+          "count": 33
         },
         {
-          "count": 0
+          "count": 483
         },
         {
-          "count": 0
+          "count": 2
         },
         {
           "count": 0
@@ -847,22 +838,22 @@
           "count": 0
         },
         {
-          "count": 0
+          "count": 33
+        },
+        {
+          "count": 60
+        },
+        {
+          "count": 5
+        },
+        {
+          "count": 115
         },
         {
           "count": 0
         },
         {
-          "count": 0
-        },
-        {
-          "count": 0
-        },
-        {
-          "count": 0
-        },
-        {
-          "count": 0
+          "count": 1
         }
       ]
     },
@@ -873,22 +864,22 @@
           "count": 0
         },
         {
-          "count": 0
+          "count": 103
         },
         {
-          "count": 0
+          "count": 324
         },
         {
-          "count": 0
+          "count": 153
         },
         {
-          "count": 0
+          "count": 158
         },
         {
-          "count": 0
+          "count": 122
         },
         {
-          "count": 0
+          "count": 1
         }
       ]
     },
@@ -899,16 +890,16 @@
           "count": 0
         },
         {
-          "count": 0
+          "count": 119
         },
         {
-          "count": 0
+          "count": 39
         },
         {
-          "count": 0
+          "count": 2
         },
         {
-          "count": 0
+          "count": 18
         },
         {
           "count": 0
@@ -925,22 +916,22 @@
           "count": 0
         },
         {
-          "count": 0
+          "count": 1
         },
         {
-          "count": 0
+          "count": 31
         },
         {
-          "count": 0
+          "count": 2
         },
         {
-          "count": 0
+          "count": 12
         },
         {
-          "count": 0
+          "count": 237
         },
         {
-          "count": 0
+          "count": 156
         }
       ]
     },
@@ -954,16 +945,16 @@
           "count": 0
         },
         {
-          "count": 0
+          "count": 8
         },
         {
-          "count": 0
+          "count": 37
         },
         {
-          "count": 0
+          "count": 126
         },
         {
-          "count": 0
+          "count": 121
         },
         {
           "count": 0
@@ -977,19 +968,19 @@
           "count": 0
         },
         {
-          "count": 0
+          "count": 29
         },
         {
-          "count": 0
+          "count": 67
         },
         {
-          "count": 0
+          "count": 5
         },
         {
-          "count": 0
+          "count": 34
         },
         {
-          "count": 0
+          "count": 5
         },
         {
           "count": 0
@@ -1006,19 +997,19 @@
           "count": 0
         },
         {
-          "count": 0
+          "count": 1
         },
         {
-          "count": 0
+          "count": 5
         },
         {
-          "count": 0
+          "count": 4
         },
         {
-          "count": 0
+          "count": 5
         },
         {
-          "count": 0
+          "count": 1
         }
       ]
     },
@@ -1032,16 +1023,16 @@
           "count": 0
         },
         {
-          "count": 0
+          "count": 120
         },
         {
-          "count": 0
+          "count": 102
         },
         {
-          "count": 0
+          "count": 4
         },
         {
-          "count": 0
+          "count": 1
         },
         {
           "count": 0
@@ -1055,19 +1046,19 @@
           "count": 0
         },
         {
-          "count": 0
+          "count": 13
         },
         {
-          "count": 0
+          "count": 65
         },
         {
-          "count": 0
+          "count": 13
         },
         {
-          "count": 0
+          "count": 38
         },
         {
-          "count": 0
+          "count": 4
         },
         {
           "count": 0
@@ -1078,22 +1069,22 @@
       "week": 41,
       "days": [
         {
-          "count": 0
+          "count": 1
         },
         {
-          "count": 0
+          "count": 5
         },
         {
-          "count": 0
+          "count": 132
         },
         {
-          "count": 0
+          "count": 25
         },
         {
-          "count": 0
+          "count": 40
         },
         {
-          "count": 0
+          "count": 1
         },
         {
           "count": 0
@@ -1107,22 +1098,22 @@
           "count": 0
         },
         {
-          "count": 0
+          "count": 20
         },
         {
-          "count": 0
+          "count": 82
         },
         {
-          "count": 0
+          "count": 198
         },
         {
-          "count": 0
+          "count": 70
         },
         {
-          "count": 0
+          "count": 104
         },
         {
-          "count": 0
+          "count": 12
         }
       ]
     },
@@ -1133,19 +1124,19 @@
           "count": 0
         },
         {
-          "count": 0
+          "count": 66
         },
         {
-          "count": 0
+          "count": 125
         },
         {
-          "count": 0
+          "count": 47
         },
         {
-          "count": 0
+          "count": 71
         },
         {
-          "count": 0
+          "count": 84
         },
         {
           "count": 0
@@ -1159,19 +1150,19 @@
           "count": 0
         },
         {
-          "count": 0
+          "count": 4
         },
         {
-          "count": 0
+          "count": 93
         },
         {
-          "count": 0
+          "count": 6
         },
         {
-          "count": 0
+          "count": 2
         },
         {
-          "count": 0
+          "count": 51
         },
         {
           "count": 0
@@ -1185,19 +1176,19 @@
           "count": 0
         },
         {
-          "count": 0
+          "count": 47
         },
         {
-          "count": 0
+          "count": 42
         },
         {
-          "count": 0
+          "count": 117
         },
         {
-          "count": 0
+          "count": 14
         },
         {
-          "count": 0
+          "count": 4
         },
         {
           "count": 0
@@ -1211,19 +1202,19 @@
           "count": 0
         },
         {
-          "count": 0
+          "count": 1
         },
         {
-          "count": 0
+          "count": 20
         },
         {
-          "count": 0
+          "count": 1
         },
         {
-          "count": 0
+          "count": 2
         },
         {
-          "count": 0
+          "count": 120
         },
         {
           "count": 0
@@ -1234,16 +1225,16 @@
       "week": 47,
       "days": [
         {
-          "count": 0
+          "count": 3
+        },
+        {
+          "count": 2
         },
         {
           "count": 0
         },
         {
-          "count": 0
-        },
-        {
-          "count": 0
+          "count": 1
         },
         {
           "count": 0
@@ -1260,16 +1251,16 @@
       "week": 48,
       "days": [
         {
-          "count": 0
+          "count": 1
         },
         {
-          "count": 0
+          "count": 24
         },
         {
-          "count": 0
+          "count": 6
         },
         {
-          "count": 0
+          "count": 4
         },
         {
           "count": 0
@@ -1289,22 +1280,22 @@
           "count": 0
         },
         {
-          "count": 0
+          "count": 16
         },
         {
-          "count": 0
+          "count": 1
         },
         {
-          "count": 0
+          "count": 60
         },
         {
-          "count": 0
+          "count": 41
         },
         {
-          "count": 0
+          "count": 21
         },
         {
-          "count": 0
+          "count": 1
         }
       ]
     },
@@ -1315,19 +1306,19 @@
           "count": 0
         },
         {
-          "count": 0
+          "count": 10
         },
         {
-          "count": 0
+          "count": 16
         },
         {
-          "count": 0
+          "count": 1
         },
         {
-          "count": 0
+          "count": 1
         },
         {
-          "count": 0
+          "count": 22
         },
         {
           "count": 0
@@ -1363,6 +1354,18 @@
     {
       "week": 52,
       "days": [
+        {
+          "count": 0
+        },
+        {
+          "count": 0
+        },
+        {
+          "count": 0
+        },
+        {
+          "count": 0
+        },
         {
           "count": 0
         }
