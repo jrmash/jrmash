@@ -3,9 +3,9 @@
   "year": "2023",
   "min": 1,
   "max": 354,
-  "median": 4,
+  "median": 3,
   "p80": 13,
-  "p90": 26,
+  "p90": 27.5,
   "p99": 248,
   "contributions": [
     {
@@ -15,7 +15,7 @@
           "count": 2
         },
         {
-          "count": 0
+          "count": 2
         },
         {
           "count": 2
@@ -67,7 +67,7 @@
           "count": 2
         },
         {
-          "count": 0
+          "count": 1
         },
         {
           "count": 4
@@ -90,7 +90,7 @@
       "week": 3,
       "days": [
         {
-          "count": 0
+          "count": 1
         },
         {
           "count": 2
@@ -116,7 +116,7 @@
       "week": 4,
       "days": [
         {
-          "count": 0
+          "count": 2
         },
         {
           "count": 40
@@ -238,7 +238,7 @@
           "count": 4
         },
         {
-          "count": 0
+          "count": 1
         }
       ]
     },
@@ -428,7 +428,7 @@
       "week": 16,
       "days": [
         {
-          "count": 0
+          "count": 1
         },
         {
           "count": 31
@@ -706,7 +706,7 @@
           "count": 13
         },
         {
-          "count": 4
+          "count": 3
         }
       ]
     },
@@ -717,13 +717,13 @@
           "count": 3
         },
         {
-          "count": 7
+          "count": 3
         },
         {
           "count": 18
         },
         {
-          "count": 16
+          "count": 15
         },
         {
           "count": 13
@@ -732,7 +732,7 @@
           "count": 12
         },
         {
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -740,22 +740,22 @@
       "week": 28,
       "days": [
         {
-          "count": 0
+          "count": 10
         },
         {
-          "count": 0
+          "count": 12
         },
         {
-          "count": 0
+          "count": 6
         },
         {
-          "count": 0
+          "count": 54
         },
         {
-          "count": 0
+          "count": 37
         },
         {
-          "count": 0
+          "count": 12
         },
         {
           "count": 0
