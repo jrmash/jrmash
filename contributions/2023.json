@@ -5,8 +5,8 @@
   "max": 354,
   "median": 3,
   "p80": 13,
-  "p90": 27.5,
-  "p99": 248,
+  "p90": 26,
+  "p99": 229.5,
   "contributions": [
     {
       "week": 0,
@@ -428,7 +428,7 @@
       "week": 16,
       "days": [
         {
-          "count": 1
+          "count": 3
         },
         {
           "count": 31
@@ -755,10 +755,10 @@
           "count": 37
         },
         {
-          "count": 12
+          "count": 13
         },
         {
-          "count": 0
+          "count": 2
         }
       ]
     },
@@ -766,22 +766,22 @@
       "week": 29,
       "days": [
         {
-          "count": 0
+          "count": 1
         },
         {
-          "count": 0
+          "count": 3
         },
         {
-          "count": 0
+          "count": 10
         },
         {
-          "count": 0
+          "count": 6
         },
         {
-          "count": 0
+          "count": 1
         },
         {
-          "count": 0
+          "count": 7
         },
         {
           "count": 0
