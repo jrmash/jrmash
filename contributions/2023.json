@@ -5,7 +5,7 @@
   "max": 354,
   "median": 3,
   "p80": 13,
-  "p90": 26,
+  "p90": 27.5,
   "p99": 229.5,
   "contributions": [
     {
@@ -795,19 +795,19 @@
           "count": 0
         },
         {
-          "count": 0
+          "count": 4
         },
         {
-          "count": 0
+          "count": 28
         },
         {
-          "count": 0
+          "count": 46
         },
         {
-          "count": 0
+          "count": 8
         },
         {
-          "count": 0
+          "count": 2
         },
         {
           "count": 0
