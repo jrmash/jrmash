@@ -1,12 +1,8 @@
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=jrmash"/>
-  </a>
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=jrmash"/>
 </p>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" src="https://github-profile-trophy.vercel.app?username=jrmash&theme=flat&title=Commit,Issues,PullRequest,Repositories&column=4&margin-w=18&margin-h=5"/>
-  </a>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=jrmash&theme=flat&title=LongTimeUser,Commit,Experience,Issues,PullRequest&column=5&margin-w=2&margin-h=5"/>
 </p>
 <br/>
 I'm a veteran software engineer with a passion for efficiency and productivity throughout the development workflow, from commit through the CI/CD pipeline to successful deployment. When I'm not developing automated pipelines or experimenting with new technologies, I can be found gaming or relaxing with my family.
