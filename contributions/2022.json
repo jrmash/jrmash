@@ -2,7 +2,7 @@
   "user": {
     "contributionsCollection": {
       "contributionCalendar": {
-        "totalContributions": 6095,
+        "totalContributions": 6065,
         "weeks": [
           {
             "contributionDays": [
@@ -999,7 +999,7 @@
                 "date": "2022-08-05"
               },
               {
-                "contributionCount": 4,
+                "contributionCount": 2,
                 "date": "2022-08-06"
               }
             ]
@@ -1251,11 +1251,11 @@
                 "date": "2022-09-29"
               },
               {
-                "contributionCount": 20,
+                "contributionCount": 2,
                 "date": "2022-09-30"
               },
               {
-                "contributionCount": 8,
+                "contributionCount": 2,
                 "date": "2022-10-01"
               }
             ]
@@ -1295,7 +1295,7 @@
           {
             "contributionDays": [
               {
-                "contributionCount": 3,
+                "contributionCount": 1,
                 "date": "2022-10-09"
               },
               {
@@ -1303,7 +1303,7 @@
                 "date": "2022-10-10"
               },
               {
-                "contributionCount": 4,
+                "contributionCount": 3,
                 "date": "2022-10-11"
               },
               {
@@ -1319,7 +1319,7 @@
                 "date": "2022-10-14"
               },
               {
-                "contributionCount": 4,
+                "contributionCount": 2,
                 "date": "2022-10-15"
               }
             ]
@@ -1455,7 +1455,7 @@
           {
             "contributionDays": [
               {
-                "contributionCount": 4,
+                "contributionCount": 5,
                 "date": "2022-11-13"
               },
               {
