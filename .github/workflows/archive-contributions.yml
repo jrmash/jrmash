@@ -43,7 +43,7 @@ jobs:
     steps:
       - id: fetch-contribution-data
         name: Fetch Contribution Data
-        uses: octokit/graphql-action@8d5d409811121a45276e35f895cb3b799df1c65b # v2.2.25
+        uses: octokit/graphql-action@898f31f0cb407ec9e1d8b1dc411e33e931f75cfa # v2.3.0
         with:
           query: |
             query($fromDate:DateTime, $toDate:DateTime) {
