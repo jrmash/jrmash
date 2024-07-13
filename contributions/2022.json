@@ -2,7 +2,7 @@
   "user": {
     "contributionsCollection": {
       "contributionCalendar": {
-        "totalContributions": 6069,
+        "totalContributions": 6066,
         "weeks": [
           {
             "contributionDays": [
@@ -1087,7 +1087,7 @@
                 "date": "2022-08-24"
               },
               {
-                "contributionCount": 3,
+                "contributionCount": 2,
                 "date": "2022-08-25"
               },
               {
@@ -1423,7 +1423,7 @@
           {
             "contributionDays": [
               {
-                "contributionCount": 2,
+                "contributionCount": 1,
                 "date": "2022-11-06"
               },
               {
@@ -1499,7 +1499,7 @@
                 "date": "2022-11-22"
               },
               {
-                "contributionCount": 2,
+                "contributionCount": 1,
                 "date": "2022-11-23"
               },
               {
