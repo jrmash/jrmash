@@ -15,11 +15,11 @@
                 "date": "2020-01-02"
               },
               {
-                "contributionCount": 3,
+                "contributionCount": 4,
                 "date": "2020-01-03"
               },
               {
-                "contributionCount": 1,
+                "contributionCount": 0,
                 "date": "2020-01-04"
               }
             ]
@@ -1163,11 +1163,11 @@
                 "date": "2020-09-09"
               },
               {
-                "contributionCount": 125,
+                "contributionCount": 126,
                 "date": "2020-09-10"
               },
               {
-                "contributionCount": 122,
+                "contributionCount": 121,
                 "date": "2020-09-11"
               },
               {
