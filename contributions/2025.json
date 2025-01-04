@@ -1,0 +1,31 @@
+{
+  "user": {
+    "contributionsCollection": {
+      "contributionCalendar": {
+        "totalContributions": 4,
+        "weeks": [
+          {
+            "contributionDays": [
+              {
+                "contributionCount": 1,
+                "date": "2025-01-01"
+              },
+              {
+                "contributionCount": 1,
+                "date": "2025-01-02"
+              },
+              {
+                "contributionCount": 1,
+                "date": "2025-01-03"
+              },
+              {
+                "contributionCount": 1,
+                "date": "2025-01-04"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
