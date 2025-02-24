@@ -68,7 +68,7 @@ jobs:
         run: |
           echo '${{ steps.fetch-contribution-data.outputs.data }}' > ./${{ matrix.gqlQuery.forYear }}.json
       - name: Store Contribution Data
-        uses: actions/upload-artifact@65c4c4a1ddee5b72f698fdd19549f0f0fb45cf08 #v4.6.0
+        uses: actions/upload-artifact@4cec3d8aa04e39d1a68397de0c4cd6fb9dce8ec1 #v4.6.1
         with:
           name: contribution-data-${{ matrix.gqlQuery.forYear }}
           path: ./${{ matrix.gqlQuery.forYear }}.json
