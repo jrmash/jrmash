@@ -2,7 +2,7 @@
   "user": {
     "contributionsCollection": {
       "contributionCalendar": {
-        "totalContributions": 6533,
+        "totalContributions": 6515,
         "weeks": [
           {
             "contributionDays": [
@@ -919,7 +919,7 @@
                 "date": "2024-07-18"
               },
               {
-                "contributionCount": 5,
+                "contributionCount": 4,
                 "date": "2024-07-19"
               },
               {
@@ -931,7 +931,7 @@
           {
             "contributionDays": [
               {
-                "contributionCount": 3,
+                "contributionCount": 2,
                 "date": "2024-07-21"
               },
               {
@@ -955,7 +955,7 @@
                 "date": "2024-07-26"
               },
               {
-                "contributionCount": 3,
+                "contributionCount": 2,
                 "date": "2024-07-27"
               }
             ]
@@ -963,7 +963,7 @@
           {
             "contributionDays": [
               {
-                "contributionCount": 8,
+                "contributionCount": 7,
                 "date": "2024-07-28"
               },
               {
@@ -1019,7 +1019,7 @@
                 "date": "2024-08-09"
               },
               {
-                "contributionCount": 5,
+                "contributionCount": 4,
                 "date": "2024-08-10"
               }
             ]
@@ -1027,7 +1027,7 @@
           {
             "contributionDays": [
               {
-                "contributionCount": 2,
+                "contributionCount": 1,
                 "date": "2024-08-11"
               },
               {
@@ -1059,7 +1059,7 @@
           {
             "contributionDays": [
               {
-                "contributionCount": 7,
+                "contributionCount": 6,
                 "date": "2024-08-18"
               },
               {
@@ -1179,7 +1179,7 @@
                 "date": "2024-09-13"
               },
               {
-                "contributionCount": 4,
+                "contributionCount": 3,
                 "date": "2024-09-14"
               }
             ]
@@ -1211,7 +1211,7 @@
                 "date": "2024-09-20"
               },
               {
-                "contributionCount": 5,
+                "contributionCount": 4,
                 "date": "2024-09-21"
               }
             ]
@@ -1267,7 +1267,7 @@
                 "date": "2024-10-02"
               },
               {
-                "contributionCount": 16,
+                "contributionCount": 15,
                 "date": "2024-10-03"
               },
               {
@@ -1523,7 +1523,7 @@
                 "date": "2024-11-27"
               },
               {
-                "contributionCount": 3,
+                "contributionCount": 2,
                 "date": "2024-11-28"
               },
               {
@@ -1531,7 +1531,7 @@
                 "date": "2024-11-29"
               },
               {
-                "contributionCount": 5,
+                "contributionCount": 4,
                 "date": "2024-11-30"
               }
             ]
@@ -1587,7 +1587,7 @@
                 "date": "2024-12-11"
               },
               {
-                "contributionCount": 7,
+                "contributionCount": 6,
                 "date": "2024-12-12"
               },
               {
@@ -1643,7 +1643,7 @@
                 "date": "2024-12-23"
               },
               {
-                "contributionCount": 6,
+                "contributionCount": 4,
                 "date": "2024-12-24"
               },
               {
@@ -1667,7 +1667,7 @@
           {
             "contributionDays": [
               {
-                "contributionCount": 5,
+                "contributionCount": 2,
                 "date": "2024-12-29"
               },
               {
