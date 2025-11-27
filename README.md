@@ -58,36 +58,16 @@ I'm currently a Principal DevOps Engineer at <a href="https://tebra.com">Tebra</
 <td valign="top">
 <div align="center">
   <h3>CI/CD Platforms</h3>
-  <a href="https://argoproj.github.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" height="40" width="40" style="margin: 10px"/>
-  </a>
-  <a href="https://circleci.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/circleci/circleci-plain.svg" height="40" width="40" style="margin: 10px"/>
-  </a>
-  <a href="https://docs.github.com/en/actions" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="40" width="40" style="margin: 10px"/>
-  </a>
-  <a href="https://harness.io/products/continuous-delivery" target="_blank">
-    <img src="assets/harness/cd.svg" height="40" width="40" style="margin: 10px"/>
-  </a>
-  <a href="https://www.harness.io/products/continuous-integration" target="_blank">
-    <img src="assets/harness/ci.svg" height="40" width="40" style="margin: 10px"/>
-  </a>
-  <a href="https://harness.io/products/infrastructure-as-code-management" target="_blank">
-    <img src="assets/harness/iacm.svg" height="40" width="40" style="margin: 10px"/>
-  </a>
-  <a href="https://jenkins.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" height="40" width="40" style="margin: 10px"/>
-  </a>
-  <a href="https://pmease.com/quickbuild/" target="_blank">
-    <img src="assets/quickbuild.svg" height="40" width="40" style="margin: 10px"/>
-  </a>
-  <a href="https://jetbrains.com/teamcity/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/teamcity/teamcity-original.svg" height="40" width="40" style="margin: 10px"/>
-  </a>
-  <a href="https://travis-ci.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/travis/travis-original.svg" height="40" width="40" style="margin: 10px"/>
-  </a>
+  <a href="https://argoproj.github.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" height="40" width="40" style="margin: 10px"/></a>
+  <a href="https://circleci.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/circleci/circleci-plain.svg" height="40" width="40" style="margin: 10px"/></a>
+  <a href="https://docs.github.com/en/actions" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="40" width="40" style="margin: 10px"/></a>
+  <a href="https://harness.io/products/continuous-delivery" target="_blank"><img src="assets/harness/cd.svg" height="40" width="40" style="margin: 10px"/></a>
+  <a href="https://www.harness.io/products/continuous-integration" target="_blank"><img src="assets/harness/ci.svg" height="40" width="40" style="margin: 10px"/></a>
+  <a href="https://harness.io/products/infrastructure-as-code-management" target="_blank"><img src="assets/harness/iacm.svg" height="40" width="40" style="margin: 10px"/></a>
+  <a href="https://jenkins.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" height="40" width="40" style="margin: 10px"/></a>
+  <a href="https://pmease.com/quickbuild/" target="_blank"><img src="assets/quickbuild.svg" height="40" width="40" style="margin: 10px"/></a>
+  <a href="https://jetbrains.com/teamcity/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/teamcity/teamcity-original.svg" height="40" width="40" style="margin: 10px"/></a>
+  <a href="https://travis-ci.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/travis/travis-original.svg" height="40" width="40" style="margin: 10px"/></a>
 </div>
 </td>
 
