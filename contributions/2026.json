@@ -2,12 +2,12 @@
   "user": {
     "contributionsCollection": {
       "contributionCalendar": {
-        "totalContributions": 0,
+        "totalContributions": 28,
         "weeks": [
           {
             "contributionDays": [
               {
-                "contributionCount": 0,
+                "contributionCount": 1,
                 "date": "2026-01-01"
               },
               {
@@ -15,8 +15,40 @@
                 "date": "2026-01-02"
               },
               {
-                "contributionCount": 0,
+                "contributionCount": 1,
                 "date": "2026-01-03"
+              }
+            ]
+          },
+          {
+            "contributionDays": [
+              {
+                "contributionCount": 0,
+                "date": "2026-01-04"
+              },
+              {
+                "contributionCount": 7,
+                "date": "2026-01-05"
+              },
+              {
+                "contributionCount": 5,
+                "date": "2026-01-06"
+              },
+              {
+                "contributionCount": 10,
+                "date": "2026-01-07"
+              },
+              {
+                "contributionCount": 2,
+                "date": "2026-01-08"
+              },
+              {
+                "contributionCount": 2,
+                "date": "2026-01-09"
+              },
+              {
+                "contributionCount": 0,
+                "date": "2026-01-10"
               }
             ]
           }
