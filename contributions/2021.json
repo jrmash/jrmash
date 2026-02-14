@@ -2,7 +2,7 @@
   "user": {
     "contributionsCollection": {
       "contributionCalendar": {
-        "totalContributions": 16914,
+        "totalContributions": 16913,
         "weeks": [
           {
             "contributionDays": [
@@ -107,7 +107,7 @@
                 "date": "2021-01-22"
               },
               {
-                "contributionCount": 1,
+                "contributionCount": 0,
                 "date": "2021-01-23"
               }
             ]
