@@ -15,22 +15,37 @@ jobs:
         name: Generate Matrix
         run: |
           declare JSON=$(jq -n '{}')
-          export YEAR="$(date +%Y)"
-          
+          declare -a QUARTER_STARTS=("01-01" "04-01" "07-01" "10-01")
+          declare -a QUARTER_ENDS=("03-31" "06-30" "09-30" "12-31")
+          declare NOW="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          declare YEAR="${NOW:0:4}"
+
           for iYear in $(seq 2010 ${YEAR}); do
-            export iYear
-            
-            JSON="$(jq <<< "${JSON}" -c '
-              .gqlQuery += [{
-                forYear: env.iYear,
-                variables: {
-                  fromDate: "\(env.iYear)-01-01T00:00:00Z",
-                  toDate: (if env.iYear == env.YEAR then now | todateiso8601 else "\(env.iYear)-12-31T23:59:59Z" end)
-                }
-              }]
-            ')"
+            for iQuarter in "${!QUARTER_STARTS[@]}"; do
+              export iYear
+              export forPeriod="${iYear}-Q$((iQuarter + 1))"
+              export fromDate="${iYear}-${QUARTER_STARTS[iQuarter]}T00:00:00Z"
+              export toDate="${iYear}-${QUARTER_ENDS[iQuarter]}T23:59:59Z"
+
+              if [[ "${fromDate}" > "${NOW}" ]]; then
+                continue
+              elif [[ "${toDate}" > "${NOW}" ]]; then
+                export toDate="${NOW}"
+              fi
+
+              JSON="$(jq <<< "${JSON}" -c '
+                .gqlQuery += [{
+                  forYear: env.iYear,
+                  forPeriod: env.forPeriod,
+                  variables: {
+                    fromDate: env.fromDate,
+                    toDate: env.toDate
+                  }
+                }]
+              ')"
+            done
           done
-          
+
           echo "matrix=$(echo "${JSON}")" >> ${GITHUB_OUTPUT}
   fetch:
     needs: configure
@@ -66,12 +81,12 @@ jobs:
             toDate: "${{ matrix.gqlQuery.variables.toDate }}"
       - name: Output Contribution Data
         run: |
-          echo '${{ steps.fetch-contribution-data.outputs.data }}' > ./${{ matrix.gqlQuery.forYear }}.json
+          echo '${{ steps.fetch-contribution-data.outputs.data }}' > ./${{ matrix.gqlQuery.forPeriod }}.json
       - name: Store Contribution Data
         uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a #v7.0.1
         with:
-          name: contribution-data-${{ matrix.gqlQuery.forYear }}
-          path: ./${{ matrix.gqlQuery.forYear }}.json
+          name: contribution-data-${{ matrix.gqlQuery.forPeriod }}
+          path: ./${{ matrix.gqlQuery.forPeriod }}.json
   record:
     needs: fetch
     runs-on: ubuntu-latest
@@ -84,8 +99,22 @@ jobs:
         uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
         with:
           merge-multiple: true
-          path: contributions
+          path: contribution-parts
           pattern: contribution-data-*
+      - name: Merge Contribution Data
+        run: |
+          for iYear in $(seq 2010 $(date -u +%Y)); do
+            jq -s '
+              [.[].user.contributionsCollection.contributionCalendar.weeks[].contributionDays[]]
+              | sort_by(.date)
+              | {
+                  user: { contributionsCollection: { contributionCalendar: {
+                    totalContributions: (map(.contributionCount) | add),
+                    weeks: (group_by(.date | strptime("%Y-%m-%d") | strftime("%U")) | map({ contributionDays: . }))
+                  } } }
+                }
+            ' contribution-parts/${iYear}-*.json > contributions/${iYear}.json
+          done
       - name: Submit Manifests
         uses: EndBug/add-and-commit@290ea2c423ad77ca9c62ae0f5b224379612c0321 # v10.0.0
         with:
