@@ -2,7 +2,7 @@
   "user": {
     "contributionsCollection": {
       "contributionCalendar": {
-        "totalContributions": 6134,
+        "totalContributions": 6137,
         "weeks": [
           {
             "contributionDays": [
@@ -27,11 +27,11 @@
                 "date": "2022-01-04"
               },
               {
-                "contributionCount": 55,
+                "contributionCount": 54,
                 "date": "2022-01-05"
               },
               {
-                "contributionCount": 18,
+                "contributionCount": 19,
                 "date": "2022-01-06"
               },
               {
@@ -59,15 +59,15 @@
                 "date": "2022-01-11"
               },
               {
-                "contributionCount": 16,
+                "contributionCount": 11,
                 "date": "2022-01-12"
               },
               {
-                "contributionCount": 7,
+                "contributionCount": 11,
                 "date": "2022-01-13"
               },
               {
-                "contributionCount": 4,
+                "contributionCount": 5,
                 "date": "2022-01-14"
               },
               {
@@ -99,11 +99,11 @@
                 "date": "2022-01-20"
               },
               {
-                "contributionCount": 2,
+                "contributionCount": 1,
                 "date": "2022-01-21"
               },
               {
-                "contributionCount": 1,
+                "contributionCount": 2,
                 "date": "2022-01-22"
               }
             ]
@@ -131,11 +131,11 @@
                 "date": "2022-01-27"
               },
               {
-                "contributionCount": 66,
+                "contributionCount": 64,
                 "date": "2022-01-28"
               },
               {
-                "contributionCount": 1,
+                "contributionCount": 3,
                 "date": "2022-01-29"
               }
             ]
@@ -147,19 +147,19 @@
                 "date": "2022-01-30"
               },
               {
-                "contributionCount": 91,
+                "contributionCount": 90,
                 "date": "2022-01-31"
               },
               {
-                "contributionCount": 29,
+                "contributionCount": 30,
                 "date": "2022-02-01"
               },
               {
-                "contributionCount": 3,
+                "contributionCount": 2,
                 "date": "2022-02-02"
               },
               {
-                "contributionCount": 32,
+                "contributionCount": 33,
                 "date": "2022-02-03"
               },
               {
@@ -187,15 +187,15 @@
                 "date": "2022-02-08"
               },
               {
-                "contributionCount": 25,
+                "contributionCount": 24,
                 "date": "2022-02-09"
               },
               {
-                "contributionCount": 39,
+                "contributionCount": 38,
                 "date": "2022-02-10"
               },
               {
-                "contributionCount": 68,
+                "contributionCount": 70,
                 "date": "2022-02-11"
               },
               {
@@ -247,19 +247,19 @@
                 "date": "2022-02-21"
               },
               {
-                "contributionCount": 14,
+                "contributionCount": 13,
                 "date": "2022-02-22"
               },
               {
-                "contributionCount": 175,
+                "contributionCount": 173,
                 "date": "2022-02-23"
               },
               {
-                "contributionCount": 3,
+                "contributionCount": 5,
                 "date": "2022-02-24"
               },
               {
-                "contributionCount": 9,
+                "contributionCount": 10,
                 "date": "2022-02-25"
               },
               {
@@ -279,11 +279,11 @@
                 "date": "2022-02-28"
               },
               {
-                "contributionCount": 3,
+                "contributionCount": 2,
                 "date": "2022-03-01"
               },
               {
-                "contributionCount": 14,
+                "contributionCount": 15,
                 "date": "2022-03-02"
               },
               {
@@ -291,7 +291,7 @@
                 "date": "2022-03-03"
               },
               {
-                "contributionCount": 158,
+                "contributionCount": 157,
                 "date": "2022-03-04"
               },
               {
@@ -303,7 +303,7 @@
           {
             "contributionDays": [
               {
-                "contributionCount": 2,
+                "contributionCount": 3,
                 "date": "2022-03-06"
               },
               {
@@ -315,11 +315,11 @@
                 "date": "2022-03-08"
               },
               {
-                "contributionCount": 6,
+                "contributionCount": 4,
                 "date": "2022-03-09"
               },
               {
-                "contributionCount": 1,
+                "contributionCount": 3,
                 "date": "2022-03-10"
               },
               {
@@ -411,7 +411,7 @@
                 "date": "2022-03-29"
               },
               {
-                "contributionCount": 3,
+                "contributionCount": 4,
                 "date": "2022-03-30"
               },
               {
@@ -435,19 +435,19 @@
                 "date": "2022-04-03"
               },
               {
-                "contributionCount": 4,
+                "contributionCount": 3,
                 "date": "2022-04-04"
               },
               {
-                "contributionCount": 18,
+                "contributionCount": 19,
                 "date": "2022-04-05"
               },
               {
-                "contributionCount": 47,
+                "contributionCount": 46,
                 "date": "2022-04-06"
               },
               {
-                "contributionCount": 1,
+                "contributionCount": 2,
                 "date": "2022-04-07"
               },
               {
@@ -503,7 +503,7 @@
                 "date": "2022-04-18"
               },
               {
-                "contributionCount": 12,
+                "contributionCount": 13,
                 "date": "2022-04-19"
               },
               {
@@ -539,11 +539,11 @@
                 "date": "2022-04-26"
               },
               {
-                "contributionCount": 64,
+                "contributionCount": 62,
                 "date": "2022-04-27"
               },
               {
-                "contributionCount": 15,
+                "contributionCount": 17,
                 "date": "2022-04-28"
               },
               {
@@ -595,11 +595,11 @@
                 "date": "2022-05-08"
               },
               {
-                "contributionCount": 12,
+                "contributionCount": 11,
                 "date": "2022-05-09"
               },
               {
-                "contributionCount": 46,
+                "contributionCount": 47,
                 "date": "2022-05-10"
               },
               {
@@ -799,11 +799,11 @@
                 "date": "2022-06-22"
               },
               {
-                "contributionCount": 10,
+                "contributionCount": 9,
                 "date": "2022-06-23"
               },
               {
-                "contributionCount": 2,
+                "contributionCount": 3,
                 "date": "2022-06-24"
               },
               {
@@ -831,7 +831,7 @@
                 "date": "2022-06-29"
               },
               {
-                "contributionCount": 2,
+                "contributionCount": 3,
                 "date": "2022-06-30"
               },
               {
@@ -887,11 +887,11 @@
                 "date": "2022-07-11"
               },
               {
-                "contributionCount": 2,
+                "contributionCount": 1,
                 "date": "2022-07-12"
               },
               {
-                "contributionCount": 20,
+                "contributionCount": 21,
                 "date": "2022-07-13"
               },
               {
@@ -903,7 +903,7 @@
                 "date": "2022-07-15"
               },
               {
-                "contributionCount": 2,
+                "contributionCount": 1,
                 "date": "2022-07-16"
               }
             ]
@@ -911,7 +911,7 @@
           {
             "contributionDays": [
               {
-                "contributionCount": 1,
+                "contributionCount": 2,
                 "date": "2022-07-17"
               },
               {
@@ -1019,11 +1019,11 @@
                 "date": "2022-08-09"
               },
               {
-                "contributionCount": 5,
+                "contributionCount": 4,
                 "date": "2022-08-10"
               },
               {
-                "contributionCount": 3,
+                "contributionCount": 4,
                 "date": "2022-08-11"
               },
               {
@@ -1059,11 +1059,11 @@
                 "date": "2022-08-18"
               },
               {
-                "contributionCount": 5,
+                "contributionCount": 4,
                 "date": "2022-08-19"
               },
               {
-                "contributionCount": 2,
+                "contributionCount": 3,
                 "date": "2022-08-20"
               }
             ]
@@ -1087,11 +1087,11 @@
                 "date": "2022-08-24"
               },
               {
-                "contributionCount": 2,
+                "contributionCount": 1,
                 "date": "2022-08-25"
               },
               {
-                "contributionCount": 60,
+                "contributionCount": 61,
                 "date": "2022-08-26"
               },
               {
@@ -1263,11 +1263,11 @@
           {
             "contributionDays": [
               {
-                "contributionCount": 5,
+                "contributionCount": 4,
                 "date": "2022-10-02"
               },
               {
-                "contributionCount": 1,
+                "contributionCount": 2,
                 "date": "2022-10-03"
               },
               {
@@ -1435,7 +1435,7 @@
                 "date": "2022-11-08"
               },
               {
-                "contributionCount": 16,
+                "contributionCount": 15,
                 "date": "2022-11-09"
               },
               {
@@ -1443,7 +1443,7 @@
                 "date": "2022-11-10"
               },
               {
-                "contributionCount": 2,
+                "contributionCount": 3,
                 "date": "2022-11-11"
               },
               {
@@ -1467,7 +1467,7 @@
                 "date": "2022-11-15"
               },
               {
-                "contributionCount": 6,
+                "contributionCount": 5,
                 "date": "2022-11-16"
               },
               {
@@ -1475,7 +1475,7 @@
                 "date": "2022-11-17"
               },
               {
-                "contributionCount": 8,
+                "contributionCount": 9,
                 "date": "2022-11-18"
               },
               {
@@ -1527,11 +1527,11 @@
                 "date": "2022-11-28"
               },
               {
-                "contributionCount": 2,
+                "contributionCount": 1,
                 "date": "2022-11-29"
               },
               {
-                "contributionCount": 8,
+                "contributionCount": 9,
                 "date": "2022-11-30"
               },
               {
@@ -1559,11 +1559,11 @@
                 "date": "2022-12-05"
               },
               {
-                "contributionCount": 13,
+                "contributionCount": 12,
                 "date": "2022-12-06"
               },
               {
-                "contributionCount": 13,
+                "contributionCount": 14,
                 "date": "2022-12-07"
               },
               {
@@ -1599,11 +1599,11 @@
                 "date": "2022-12-14"
               },
               {
-                "contributionCount": 6,
+                "contributionCount": 5,
                 "date": "2022-12-15"
               },
               {
-                "contributionCount": 7,
+                "contributionCount": 8,
                 "date": "2022-12-16"
               },
               {
