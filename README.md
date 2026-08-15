@@ -1,8 +1,8 @@
 <div align="center">
-  <img align="center" src="https://ghss-jrm.vercel.app?user=jrmash"/>
+  <img align="center" src="./profile/streak.svg" alt="GitHub streak stats"/>
 </div>
 <div align="center">
-  <img align="center" src="https://ght-jrm.vercel.app/?username=jrmash&theme=flat&title=MultiLanguage,LongTimeUser,Commit,Experience,PullRequest,Reviews&column=6&margin-w=2&margin-h=5"/>
+  <img align="center" src="./profile/trophy.svg" alt="GitHub profile trophies"/>
 </div>
 <br/>
 I'm a veteran software engineer with a passion for efficiency and productivity throughout the development workflow, from commit through the CI/CD pipeline to successful deployment. When I'm not developing automated pipelines or experimenting with new technologies, I can be found gaming or relaxing with my family.
