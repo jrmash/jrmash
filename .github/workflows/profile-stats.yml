@@ -2,7 +2,7 @@ name: Update Profile Stats
 
 on:
   schedule:
-    - cron: "0 8 * * *"
+    - cron: "0 9 * * *"
   push:
     paths:
       - ".github/workflows/profile-stats.yml"
