@@ -1,9 +1,6 @@
 <div align="center">
   <img align="center" src="./profile/streak.svg" alt="GitHub streak stats"/>
 </div>
-<div align="center">
-  <img align="center" src="./profile/trophy.svg" alt="GitHub profile trophies"/>
-</div>
 <br/>
 I'm a veteran software engineer with a passion for efficiency and productivity throughout the development workflow, from commit through the CI/CD pipeline to successful deployment. When I'm not developing automated pipelines or experimenting with new technologies, I can be found gaming or relaxing with my family.
 <br/>

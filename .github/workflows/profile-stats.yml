@@ -22,19 +22,6 @@ jobs:
           options: user=${{ github.repository_owner }}&theme=default&disable_animations=true
           path: profile/streak.svg
           token: ${{ secrets.USER_TOKEN }}
-      - name: Generate trophy stats
-        # PR #437 adds the title and layout inputs used by the existing card.
-        uses: ryo-ma/github-profile-trophy@df84e5a2a17e4671ce8389444e455bdd0f18ecce
-        with:
-          username: ${{ github.repository_owner }}
-          output_path: profile/trophy.svg
-          token: ${{ secrets.USER_TOKEN }}
-          theme: flat
-          title: MultiLanguage,LongTimeUser,Commit,Experience,PullRequest,Reviews
-          column: 6
-          row: 1
-          margin_w: 2
-          margin_h: 5
       - name: Commit profile stats
         uses: EndBug/add-and-commit@290ea2c423ad77ca9c62ae0f5b224379612c0321 # v10.0.0
         with:
