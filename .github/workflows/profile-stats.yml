@@ -13,18 +13,15 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - name: Checkout
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
-
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@51cfb8879073b4c016ce6286016de0b14d179077 # v1.7.0
         with:
           options: user=${{ github.repository_owner }}&theme=default&disable_animations=true
           path: profile/streak.svg
           token: ${{ secrets.USER_TOKEN }}
-
       - name: Generate trophy stats
         # PR #437 adds the title and layout inputs used by the existing card.
         uses: ryo-ma/github-profile-trophy@df84e5a2a17e4671ce8389444e455bdd0f18ecce
@@ -38,11 +35,8 @@ jobs:
           row: 1
           margin_w: 2
           margin_h: 5
-
       - name: Commit profile stats
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/streak.svg profile/trophy.svg
-          git diff --cached --quiet || git commit -m "Update profile stats"
-          git push
+        uses: EndBug/add-and-commit@290ea2c423ad77ca9c62ae0f5b224379612c0321 # v10.0.0
+        with:
+          add: "profile/*"
+          message: Update profile stats
